@@ -1,0 +1,18 @@
+{
+    "support": [
+        {
+            "title": "Telegram",
+            "link": "https://t.me/Noobie_TRX?text=Привет!%20Обращаюсь%20к%20вам%20по%20поводу",
+            "fg_color": "#56B3FA",
+            "hover_color": "#003153"
+
+        },
+        {
+            "title": "Discord",
+            "link": "https://discord.gg/wgJxGDE8U9",
+            "fg_color": "#6A5ACD",
+            "hover_color": "#2F2F5A"
+
+        }
+    ]
+}
