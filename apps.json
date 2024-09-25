@@ -1,0 +1,30 @@
+'''
+{
+    "buttons": [
+        {
+            "title": "WinLocker",
+            "link": "https://t.me/Noobie_TRX?text=Привет!%20хочу%20купить%20WinLocker",
+            "description": "Программа, блокирующая Windows. Имеет встроенный чат. После покупки разработчик все для вас настроит.",
+            "fg_color": "gray",
+            "price": "100"
+        },
+        {
+            "title": "Jarvis",
+            "link": "https://t.me/Noobie_TRX?text=Привет!%20хочу%20купить%20Jarvis'а",
+            "description": "Бета-версия голосового помощника от Noobie.Dev. Имеет довольно широкий функционал.",
+            "fg_color": "gray",
+            "price": "НЕТ В НАЛИЧИИ"
+            
+
+        },
+        {
+            "title": "RAT",
+            "link": "https://t.me/Noobie_TRX?text=Привет!%20хочу%20купить%20ратку",
+            "description": "Удаленное управление компьютером жертвы. ",
+            "fg_color": "gray",
+            "price": "НЕТ В НАЛИЧИИ"
+        }
+
+    ]
+}
+'''
